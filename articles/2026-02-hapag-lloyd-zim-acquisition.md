@@ -3,12 +3,12 @@
 ## Article Information
 - Source: Tradlinx
 - Article: [Read the original article](https://www.tradlinx.com/blog/market-trend/%ED%95%98%ED%8C%8C%ED%81%AC%EB%A1%9C%EC%9D%B4%ED%8A%B8%EC%9D%98-zim-%EC%9D%B8%EC%88%98%EC%99%80-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EA%B3%B5%EA%B8%89%EB%A7%9D-%EC%9E%AC%ED%8E%B8-%EB%AF%B8-%EB%8F%99%EB%B6%80/)
-# Hapag-Lloyd의 ZIM 인수와 글로벌 공급망 재편  
+
+
 ## 물류 데이터 엔지니어 관점에서 본 USEC 노선 재편, 서비스 통합, 이벤트 데이터 관리
 
-- Original Article: 트레드링스, *하파크로이드의 ZIM 인수와 글로벌 공급망 재편: 미 동부 노선 영향 및 리스크 분석*
+- Original Article: 트레드링스, 하파크로이드의 ZIM 인수와 글로벌 공급망 재편: 미 동부 노선 영향 및 리스크 분석
 - Date Reviewed: 2026-03-08
-- Category: Logistics / Shipping / Supply Chain / Data Engineering
 
 ---
 
