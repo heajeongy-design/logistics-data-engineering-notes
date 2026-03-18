@@ -19,6 +19,10 @@
   해운업 M&A를 물류 데이터 엔지니어 관점에서 분석한 글.  
   USEC 노선 재편, 서비스 통합, 이벤트 데이터, KPI 설계 관점으로 정리.
 
+- [해상운임 상승과 중동 분쟁, 수에즈 봉쇄 리스크](./articles/2026-03-ocean-freight-middle-east-suez.md)  
+  운임 급등을 물류 데이터 엔지니어 관점에서 해석한 글.  
+  surcharge 구조, 리스크 이벤트, 가시성, 운임 데이터 모델 관점으로 정리.
+
 ## Future Topics
 
 - Port Congestion and Lead Time Variability
