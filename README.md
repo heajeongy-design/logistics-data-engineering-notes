@@ -23,6 +23,10 @@
   운임 급등을 물류 데이터 엔지니어 관점에서 해석한 글.  
   surcharge 구조, 리스크 이벤트, 가시성, 운임 데이터 모델 관점으로 정리.
 
+- [무역 불균형과 빈 컨테이너 증가](./articles/2026-03-empty-container-trade-imbalance.md)  
+  빈 컨테이너 재배치 문제를 물류 데이터 엔지니어 관점에서 분석한 글.  
+  무역 불균형, 운임 상승, 탄소 배출, 항만 운영 부담, 이벤트 데이터 관점으로 정리.
+
 ## Future Topics
 
 - Port Congestion and Lead Time Variability
