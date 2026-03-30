@@ -27,6 +27,11 @@
   빈 컨테이너 재배치 문제를 물류 데이터 엔지니어 관점에서 분석한 글.  
   무역 불균형, 운임 상승, 탄소 배출, 항만 운영 부담, 이벤트 데이터 관점으로 정리.
 
+- [오지 배송 위해 드론까지 직접 만드는 물류 기업 SF-EXPRESS](./articles/2026-03-sf-express-drone-and-integrated-logistics.md)  
+  자산 중심 통합 물류 기업 사례를 데이터 엔지니어 관점에서 정리한 글.  
+  직영 네트워크, SLA, 운영 컨설팅, 예외 배송 설계 관점으로 분석.
+
+  
 ## Future Topics
 
 - Port Congestion and Lead Time Variability
