@@ -30,7 +30,10 @@
 - [오지 배송 위해 드론까지 직접 만드는 물류 기업 SF-EXPRESS](./articles/2026-03-sf-express-drone-and-integrated-logistics.md)  
   자산 중심 통합 물류 기업 사례를 데이터 엔지니어 관점에서 정리한 글.  
   직영 네트워크, SLA, 운영 컨설팅, 예외 배송 설계 관점으로 분석.
-
+  
+- [호르무즈 해협 재개방, 벌크선 시장엔 기회일까 불확실일까?](./articles/2026-04-hormuz-reopening-bulker-market.md)  
+  호르무즈 해협 재개방 이슈를 벌크선 시장과 데이터 엔지니어 관점에서 정리한 글.  
+  항로 상태, 선복 복귀, 벙커 비용, 시황-실물 괴리 관점으로 분석.
   
 ## Future Topics
 
