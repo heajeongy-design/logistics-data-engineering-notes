@@ -38,6 +38,10 @@
 - [ETA, 선박 일정은 왜 자꾸 늦어질까?](./articles/2026-04-eta-delay-logistics-visibility.md)  
   ETA 불일치 문제를 물류 데이터 엔지니어 관점에서 정리한 글.  
   예측 정확도, 항만 이벤트, 데이터 품질, 지연 비용 전파 관점으로 분석.
+
+- [SCM 담당자가 주목해야 할 7가지 변화](./articles/2026-04-seven-scm-trends-global-trade.md)  
+  글로벌 무역 재편을 물류 데이터 엔지니어 관점에서 정리한 글.  
+  공급망 복잡성, 가시성, 하이퍼 케어, 규제, 데이터 중심 운영 관점으로 분석.
   
 ## Future Topics
 
