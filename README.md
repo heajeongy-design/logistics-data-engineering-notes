@@ -43,6 +43,10 @@
   글로벌 무역 재편을 물류 데이터 엔지니어 관점에서 정리한 글.  
   공급망 복잡성, 가시성, 하이퍼 케어, 규제, 데이터 중심 운영 관점으로 분석.
   
+- [트럭은 70%, 말라카 해적은 281%… 글로벌 화물 절도가 심상치 않습니다](./articles/2026-04-cargo-theft-global-risk-and-visibility.md)  
+  글로벌 화물 절도 리스크를 물류 데이터 엔지니어 관점에서 정리한 글.  
+  운송사 사기, 내부자 리스크, 행동 기반 검증, 실시간 이상 탐지 관점으로 분석.
+  
 ## Future Topics
 
 - Port Congestion and Lead Time Variability
