@@ -47,6 +47,12 @@
   글로벌 화물 절도 리스크를 물류 데이터 엔지니어 관점에서 정리한 글.  
   운송사 사기, 내부자 리스크, 행동 기반 검증, 실시간 이상 탐지 관점으로 분석.
   
+- [컨테이너 성수기, 예상보다 일찍 시작될 수 있다](./articles/2026-05-early-peak-season-container-shipping.md)  
+  조기 성수기 가능성을 물류 데이터 엔지니어 관점에서 정리한 글.  
+  운임 선행신호, 선복 변동성, 블랭크 세일링, 리스크 기반 예약 행동 관점으로 분석.
+
+  
+  
 ## Future Topics
 
 - Port Congestion and Lead Time Variability
